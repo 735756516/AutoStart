@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoStart", "AutoStart\AutoStart.vcxproj", "{F5496126-F417-4F8B-85F2-7CFE730B6E49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoStartDLL", "AutoStartDLL\AutoStartDLL.vcxproj", "{B6D4F777-46B8-4E8A-B7EE-604781985406}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoStartExe", "AutoStartExe\AutoStartExe.vcxproj", "{EAB10553-C06B-4F16-9435-CF5795A2D601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5496126-F417-4F8B-85F2-7CFE730B6E49}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5496126-F417-4F8B-85F2-7CFE730B6E49}.Debug|Win32.Build.0 = Debug|Win32
+		{F5496126-F417-4F8B-85F2-7CFE730B6E49}.Release|Win32.ActiveCfg = Release|Win32
+		{F5496126-F417-4F8B-85F2-7CFE730B6E49}.Release|Win32.Build.0 = Release|Win32
+		{B6D4F777-46B8-4E8A-B7EE-604781985406}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6D4F777-46B8-4E8A-B7EE-604781985406}.Debug|Win32.Build.0 = Debug|Win32
+		{B6D4F777-46B8-4E8A-B7EE-604781985406}.Release|Win32.ActiveCfg = Release|Win32
+		{B6D4F777-46B8-4E8A-B7EE-604781985406}.Release|Win32.Build.0 = Release|Win32
+		{EAB10553-C06B-4F16-9435-CF5795A2D601}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EAB10553-C06B-4F16-9435-CF5795A2D601}.Debug|Win32.Build.0 = Debug|Win32
+		{EAB10553-C06B-4F16-9435-CF5795A2D601}.Release|Win32.ActiveCfg = Release|Win32
+		{EAB10553-C06B-4F16-9435-CF5795A2D601}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
